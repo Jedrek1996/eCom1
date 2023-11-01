@@ -2,10 +2,10 @@ import { nanoid } from "nanoid";
 import { BsCart2, BsSearch, BsBag } from "react-icons/bs";
 
 export const navBarLinks = [
-  { id: nanoid(), href: "#home", text: "home" },
-  { id: nanoid(), href: "#skills", text: "skills" },
-  { id: nanoid(), href: "#about", text: "about" },
-  { id: nanoid(), href: "#projects", text: "projects" },
+  { id: nanoid(), href: "#Home", text: "Home" },
+  { id: nanoid(), href: "#New", text: "New" },
+  { id: nanoid(), href: "#Best Seller", text: "Best Seller" },
+  { id: nanoid(), href: "#About Us", text: "About Us" },
 ];
 
 export const navBarIcons = [

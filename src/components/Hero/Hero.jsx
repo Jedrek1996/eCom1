@@ -34,7 +34,7 @@ const Hero = () => {
             return (
               <div key={Cateogry.id}>
                 <img
-                  className="w-40 object-cover rounded-t-lg h-64 hover:scale-125 duration-500"
+                  className="w-50 object-cover rounded-t-lg h-64 hover:scale-125 duration-500"
                   src={Cateogry.image}
                   alt={Cateogry.text}
                 />

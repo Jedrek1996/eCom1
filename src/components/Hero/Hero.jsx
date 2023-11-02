@@ -7,7 +7,7 @@ const Hero = () => {
       <div>
         <div className="align-element py-11 flex">
           <img
-            src="/Images/Hero-image.jpg"
+            src="../../../public/Images/Hero-image.jpg"
             className="h-96"
             alt="Hero"
             style={{ filter: "brightness(1.25)" }}

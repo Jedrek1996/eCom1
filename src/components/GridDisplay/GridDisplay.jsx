@@ -6,7 +6,7 @@ const GridDisplay = () => {
       <div className="grid grid-cols-2 grid-rows-2 align-element py-16 px-44 gap-20">
         <div>
           <img
-            src="../../../public/Images/GridDisplay/grid1.jpg"
+            src="../../Images/GridDisplay/grid1.jpg"
             alt="Image 1"
             className="h-96 w-96 object-contain"
           />
@@ -48,7 +48,7 @@ const GridDisplay = () => {
 
         <div>
           <img
-            src="../../../public/Images/GridDisplay/grid2.png"
+            src="../../Images/GridDisplay/grid2.png"
             alt="Image 2"
             className="h-96 w-96 object-contain"
           />
